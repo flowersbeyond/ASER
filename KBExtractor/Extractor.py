@@ -4,6 +4,7 @@ from aser.database.db_API import generate_event_id, generate_relation_id, genera
 
 #memory mode loads the whole data in the memory
 #However, it still takes a lot of time, and costs a lot memory due to the large size. We use the cache mode to build a DB connection.
+#kg_conn = KG_Connection(db_path=r'data/database/core/KG_v0.1.0.db', mode='cache')
 kg_conn = KG_Connection(db_path=r'data/database/core/KG_v0.1.0.db', mode='memory')
 
 event_id_set_file = r'data/database/eventid.txt'

@@ -98,6 +98,8 @@ class __Connection(metaclass=ABCMeta):
     def get_rows_by_keys(self, table_name, bys, keys, columns, order_bys=None, reverse=False, top_n=None):
         raise NotImplementedError
 
+    def get_rows_by_patterns(self, table_name, bys, patterns, columns, order_bys=None, reverse=False, top_n=None):
+        raise NotImplementedError
 
 class _Sqlite_Connection(__Connection):
     def __init__(self, db_path):
@@ -265,6 +267,21 @@ class _Sqlite_Connection(__Connection):
             key_match_event = OrderedDict(zip(columns, x))
             key_match_events.append(key_match_event)
         return key_match_events
+
+    def get_rows_by_patterns(self, table_name, bys, patterns, columns, order_bys=None, reverse=False, top_n=None):
+        rows = []
+        select_table = "SELECT %s FROM %s WHERE %s" % (
+            ','.join(columns), table_name, ' AND '.join(['%s LIKE %s?' % (by, pattern) for (by, pattern) in zip(bys, patterns)]))
+        if order_bys:
+            select_table += ' ORDER BY %s %s' % (
+                ','.join(order_bys), 'DESC' if reverse else 'ASC')
+        if top_n:
+            select_table += ' LIMIT %d' % (top_n)
+        select_table += ';'
+        for x in self._conn.execute(select_table):
+            row = OrderedDict(zip(columns, x))
+            rows.append(row)
+        return row
 
 
 class _MongoDB_Connection(__Connection):
@@ -749,6 +766,21 @@ class _KG_Connection(object):
             return key_match_results
         return []
 
+    def get_event_by_substring(self, event_substring):
+        return self._conn.get_rows_by_patterns(table_name=_event_table_name, bys=['words'], patterns=['\'%' + event_substring + '\'%'] ,columns=['_id','verbs','words'])
+
+    def get_event_text_by_id(self, event_id):
+        return self._conn.get_rows_by_keys(table_name=_event_table_name, bys=['_id'], keys=[event_id], columns=['_id', 'words'])
+
+    def get_relations_by_event_id(self, event_id):
+        relation_rows = self._conn.get_rows_by_keys(table_name=_relation_table_name, bys=['event1_id'], keys=[event_id], columns=_relation_columns)
+        for rel in relation_rows:
+            event2_id = rel['event2_id']
+            event2 = self.get_event_text_by_id(event2_id)
+            rel['event2_words'] = event2
+
+        return relation_rows
+
     """
     KG (relations)
     """
@@ -912,3 +944,5 @@ class _KG_Connection(object):
     def get_relations_by_keys(self, bys, keys, order_bys=None, reverse=False, top_n=None):
         assert len(bys) == len(keys)
         return self._conn.get_rows_by_keys(self.relation_table_name, bys, keys, self.relation_columns, order_bys=order_bys, reverse=reverse, top_n=top_n)
+
+
