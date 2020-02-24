@@ -9,6 +9,7 @@ kg_conn = KG_Connection(db_path=r'data/database/core/KG_v0.1.0.db', mode='memory
 event_id_set_file = r'data/database/eventid.txt'
 rel_id_set_file = r'data/database/relid.txt'
 print('SIZE:', 'eventualities: ', len(kg_conn.event_id_set), 'relations:', len(kg_conn.relation_id_set))
+'''
 with open(event_id_set_file, mode='w',encoding='utf-8') as fout:
     for event_id in kg_conn.event_id_set:
         fout.write(event_id)
@@ -17,9 +18,32 @@ with open(rel_id_set_file, mode='w', encoding='utf-8') as fout:
     for rel_id in kg_conn.relation_id_set:
         fout.write(rel_id)
         fout.write('\n')
+'''
+
+event_list = kg_conn.get_all_events()
+event_dict = {}
+for event in event_list:
+    event_dict[event['_id']] = event
+
+rel_list = kg_conn.get_all_relations()
+count = 0
+for relation in rel_list:
+    e1 = event_dict[relation['event1_id']]
+    e2 = event_dict[relation['event2_id']]
+    e1_text = e1['words']
+    e2_text = e2['words']
+    relation['e1_text'] = e1_text
+    relation['e2_text'] = e2_text
+    count += 1
+    if count >= 100:
+        break
 
 
-
+all_relation_file = r'data/database/all_relation_text.txt'
+with open(all_relation_file, mode='w', encoding='utf-8') as fout:
+    for rel in rel_list:
+        fout.write(str(rel))
+        fout.write('\n')
 #SIZE: eventualities:  27565673 relations: 8834257
 print(list(zip(kg_conn.event_columns, kg_conn.event_column_types)))
 #[('_id', 'PRIMARY KEY'), ('verbs', 'TEXT'), ('skeleton_words_clean', 'TEXT'), ('skeleton_words', 'TEXT'), ('words', 'TEXT'), ('pattern', 'TEXT'), ('frequency', 'REAL')]
