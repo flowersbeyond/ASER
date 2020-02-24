@@ -64,6 +64,10 @@ class __Connection(metaclass=ABCMeta):
 
     @abstractclassmethod
     def select_row(self, _id, table_name, columns):
+
+        raise NotImplementedError
+    @abstractclassmethod
+    def select_all_rows(self, table_name, columns):
         raise NotImplementedError
 
     @abstractclassmethod
@@ -138,6 +142,16 @@ class _Sqlite_Connection(__Connection):
         for _id in id_list:
             exact_match_rows.append(row_cache.get(_id, None))
         return exact_match_rows
+
+    def select_all_rows(self, table_name, columns):
+        select_table = "SELECT %s FROM %s;" % (
+            ','.join(columns), table_name )
+        result = self._conn.execute(select_table)
+        all_rows = []
+        for x in result:
+            row = OrderedDict(zip(columns, x))
+            all_rows.append(row)
+        return all_rows
 
     def insert_row(self, row, table_name, columns):
         insert_table = "INSERT INTO %s VALUES (%s)" % (
@@ -645,6 +659,12 @@ class _KG_Connection(object):
         exact_match_events = [self.event_cache.get(
             _id, None) for _id in id_list]
         return exact_match_events
+
+    def get_all_events(self):
+        return self._conn.select_all_rows(self.event_table_name,self.event_columns)
+
+    def get_all_relations(self):
+        return self._conn.select_all_rows(self.relation_table_name,self.relation_columns)
 
     def get_events_by_keys(self, bys, keys, order_bys=None, reverse=False, top_n=None):
         assert len(bys) == len(keys)
