@@ -20,6 +20,7 @@ with open(rel_id_set_file, mode='w', encoding='utf-8') as fout:
 
 
 
+
 #SIZE: eventualities:  27565673 relations: 8834257
 print(list(zip(kg_conn.event_columns, kg_conn.event_column_types)))
 #[('_id', 'PRIMARY KEY'), ('verbs', 'TEXT'), ('skeleton_words_clean', 'TEXT'), ('skeleton_words', 'TEXT'), ('words', 'TEXT'), ('pattern', 'TEXT'), ('frequency', 'REAL')]
