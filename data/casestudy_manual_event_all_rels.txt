@@ -1,0 +1,1036 @@
+query:stay%long
+
+E1: i can not stay here longer	E2: it be dead	 REL: Result:2.000000
+E1: i can not stay here longer	E2: you have not finish yet	 REL: Contrast:3.989269
+E1: i be leave you	E2: i can not stay here longer	 REL: Conjunction:2.000000
+E1: you cloth suit you better by the way	E2: i can not stay here longer	 REL: Precedence:9.992692
+E1: you clothes suit you better by the way	E2: i can not stay here longer	 REL: Precedence:1.996795
+E1: you will find a solution	E2: i can not stay here longer	 REL: Contrast:2.978909
+E1: it be not that simple	E2: i can not stay here longer	 REL: Contrast:1.992197
+E1: you may be assure of my secrecy	E2: i have stay long	 REL: Contrast:15.912395
+E1: they stay long	E2: a show be over	 REL: Succession:3.000000
+E1: you have a lot	E2: you stay here longer	 REL: Condition:2.000000
+E1: he be stay long	E2: she need the help	 REL: Condition:2.000000
+E1: he be stay long	E2: as he like	 REL: Condition:2.000000
+E1: we will stay long	E2: as you want	 REL: Condition:3.000000
+E1: we will stay long	E2: as it take	 REL: Condition:4.999823
+E1: we will stay long	E2: as it take to get	 REL: Condition:8.000000
+E1: it feel right	E2: i stay longer	 REL: Result:2.000000
+E1: the grail will be angry with i	E2: i stay longer	 REL: Condition:2.000000
+E1: i will die	E2: i stay longer	 REL: Condition:4.000000
+E1: we will only fight	E2: i stay longer	 REL: Condition:3.000000
+E1: you can not leave	E2: you stay longer	 REL: Condition:4.000000
+E1: i be afraid	E2: you stay longer	 REL: Condition:7.000000
+E1: you will be dead	E2: you stay longer	 REL: Condition:9.000000
+E1: i could stay long	E2: as i want	 REL: Condition:6.000000
+E1: i could stay long	E2: as you like	 REL: Condition:4.000000
+E1: he do not stay long	E2: he quickly run into the fog	 REL: Conjunction:0.999951
+E1: that i do	E2: he do not stay long	 REL: Contrast:6.974589
+E1: i be put he up a while	E2: he do not stay long	 REL: Conjunction:4.000000
+E1: i meet virginia woolf in this room	E2: he do not stay long	 REL: Concession:8.974673Conjunction:8.981075
+E1: miss cho must have be happy	E2: he do not stay long	 REL: Contrast:2.974409
+E1: we stay long	E2: we miss rehearsal	 REL: Result:2.978749
+E1: i will stay long	E2: as it take	 REL: Condition:5.000000
+E1: i will stay long	E2: you need i	 REL: Condition:8.000000
+E1: i will stay long	E2: as you like	 REL: Condition:26.000000
+E1: i will stay long	E2: as you want	 REL: Condition:13.000000
+E1: i will stay long	E2: as i want	 REL: Condition:5.000000
+E1: i will stay long	E2: as i be need	 REL: Condition:13.000000
+E1: i will stay long	E2: as you need to finish my work	 REL: Condition:7.000000
+E1: i will stay long	E2: i have not even look at you properly	 REL: Precedence:2.000000
+E1: you may stay long	E2: as you want	 REL: Condition:4.000000
+E1: you may stay long	E2: as you like	 REL: Condition:12.000000
+E1: you may stay long	E2: as you please	 REL: Condition:2.000000
+E1: they do not stay long	E2: as mrs. kenton would like	 REL: Result:2.000000
+E1: they seem close in a secretive way	E2: they do not stay long	 REL: Conjunction:8.968162
+E1: we will stay here as long	E2: as we need to be here	 REL: Condition:6.000000
+E1: we will stay here as long	E2: as it take to talk it out	 REL: Condition:3.000000
+E1: you can stay long	E2: as you want	 REL: Condition:234.999815Conjunction:0.999882
+E1: you can stay long	E2: as you like	 REL: Condition:177.999599
+E1: you can stay long	E2: as you wish	 REL: Condition:23.000000
+E1: you can stay long	E2: as you iike	 REL: Condition:2.999829
+E1: you can stay long	E2: as you would like	 REL: Condition:18.000000
+E1: you can stay long	E2: it be not a inspection	 REL: Condition:3.000000
+E1: you can stay long	E2: as you need	 REL: Condition:34.000000
+E1: you can stay long	E2: we should have the result in about a hour	 REL: Condition:1.997341
+E1: you can stay long	E2: a little barbecue sauce would be nice	 REL: Condition:3.998700
+E1: you can stay long	E2: i be go to make the preparation	 REL: Condition:11.977677
+E1: i have a huge empty house	E2: you can stay long	 REL: Condition:0.999988
+E1: it would be like a extended slumber party	E2: you can stay long	 REL: Condition:0.999891
+E1: we will just put a band aid on it	E2: you can stay long	 REL: Condition:0.999963
+E1: you do not have to pack up you stuff	E2: you can stay long	 REL: Condition:1.999732
+E1: he never stay long	E2: it be enough	 REL: Contrast:1.998882
+E1: i go	E2: i do not stay long	 REL: Contrast:1.986023
+E1: we will stay here long	E2: as it take to communicate we message	 REL: Condition:5.000000
+E1: we will stay here long	E2: as it take	 REL: Condition:9.000000
+E1: we will stay here long	E2: as we want	 REL: Condition:2.000000
+E1: i will stay here as long	E2: as you like	 REL: Condition:5.000000
+E1: i will stay here as long	E2: as i like	 REL: Condition:2.000000
+E1: he stay long	E2: as he want	 REL: Condition:1.999815
+E1: i be gon na let	E2: he stay long	 REL: Condition:0.999753
+E1: you stay long	E2: as you want	 REL: Condition:12.999625
+E1: you stay long	E2: as you like	 REL: Condition:21.999591
+E1: you stay long	E2: as you need	 REL: Condition:1.999899
+E1: you stay long	E2: as the paper stay	 REL: Condition:1.999934
+E1: you stay long	E2: you please #	 REL: Condition:2.999732
+E1: you stay long	E2: as you please	 REL: Condition:2.999689
+E1: you stay long	E2: as you would like	 REL: Condition:1.999934
+E1: you stay long	E2: no one can come here not without my permission	 REL: Condition:1.996120
+E1: my boss will get mad	E2: i stay long	 REL: Condition:2.000000
+E1: i can not just come along	E2: i stay long	 REL: Conjunction:8.999622
+E1: you take i away to that special place	E2: i stay long	 REL: Condition:1.999887Conjunction:1.999793
+E1: should i go down	E2: i stay long	 REL: Condition:1.999576
+E1: they just have to be	E2: i stay long	 REL: Condition:0.999117
+E1: that player stay out long on they shift	E2: player make risky pass	 REL: Conjunction:1.994874
+E1: the guy be ridin dirt bike back	E2: we do not stay long	 REL: Result:6.000000
+E1: he would stay long	E2: as it take	 REL: Condition:6.000000
+E1: he would stay long	E2: as you want	 REL: Condition:2.000000
+E1: he will stay long	E2: he pay more attention on the business	 REL: Condition:1.998095Conjunction:1.999962
+E1: i doubt	E2: he will stay long	 REL: Condition:3.000000
+E1: i would have stay longer	E2: the script have be good enough	 REL: Precedence:2.000000Condition:2.000000
+E1: i would have stay longer	E2: you let i	 REL: Condition:2.000000
+E1: i would have stay longer	E2: skiing kill my grade	 REL: Contrast:12.999742
+E1: i can not stay long	E2: you come late	 REL: Result:7.000000
+E1: i can not stay long	E2: we do it quickly	 REL: Precedence:1.995203
+E1: i can not stay long	E2: i will be quick	 REL: Precedence:1.998305
+E1: i can not stay long	E2: we should not waste any time	 REL: Precedence:3.999902
+E1: i be go to a tea	E2: i can not stay long	 REL: Result:3.000000
+E1: i do not think	E2: i can not stay long	 REL: Result:3.000000
+E1: ta meet a client in the morning	E2: i can not stay long	 REL: Result:7.999642
+E1: be dear empty i the top drawer	E2: i can not stay long	 REL: Conjunction:1.998763
+E1: i be	E2: i can not stay long	 REL: Contrast:5.990142
+E1: you game face on	E2: i can not stay long	 REL: Contrast:0.998414
+E1: i want to stay longer	E2: it be rain	 REL: Contrast:0.998448
+E1: he could stay long	E2: as he promise to leave i alone	 REL: Condition:10.000000
+E1: he could stay long	E2: as he do not die	 REL: Condition:4.000000
+E1: we be sit duck	E2: we stay here longer	 REL: Condition:2.000000
+E1: we will be in danger	E2: we stay here longer	 REL: Condition:5.000000
+E1: we will die	E2: we stay here longer	 REL: Condition:5.000000
+E1: these blade be more expensive than ordinary steel blade	E2: they stay sharp longer	 REL: Contrast:0.999976Conjunction:0.999944
+E1: he ask	E2: we could have stay longer	 REL: Condition:2.000000
+E1: i will take you	E2: you will stay longer	 REL: Conjunction:0.999590
+E1: you can stay there as long	E2: as you like	 REL: Condition:3.000000
+E1: you can stay there as long	E2: as you want	 REL: Condition:3.000000
+E1: everything you have teach i	E2: i do not want to stay longer	 REL: Contrast:0.992058
+E1: we could stay long	E2: as we want	 REL: Condition:8.000000
+E1: you can stay longer	E2: you wish	 REL: Condition:2.000000
+E1: you can stay longer	E2: ya want	 REL: Condition:4.000000
+E1: i will go splitsy on a new ticket	E2: you can stay longer	 REL: Result:2.000000
+E1: i be afraid	E2: we stay there longer	 REL: Condition:1.997185
+E1: i could stay longer	E2: you like	 REL: Condition:5.000000
+E1: we could stay longer	E2: you want	 REL: Condition:12.000000
+E1: we be stay longer	E2: we could go back	 REL: Result:1.999646
+E1: we can stay long	E2: as we need	 REL: Condition:4.000000
+E1: we can stay long	E2: as you want	 REL: Condition:5.000000
+E1: i could have show you around town	E2: you be stay longer	 REL: Condition:2.000000
+E1: my friend be rent a boat	E2: i have to stay longer	 REL: Conjunction:6.000000
+E1: i stay here long	E2: as you be here	 REL: Condition:2.000000
+E1: i stay here long	E2: as i like	 REL: Condition:3.000000
+E1: i be gon na melt	E2: i stay here long	 REL: Condition:2.000000
+E1: you stay too long	E2: you grow a third eye	 REL: Condition:3.984296
+E1: i would not stay longer	E2: he be not of that boat	 REL: Contrast:1.999363
+E1: i be not stay long	E2: you can just forget	 REL: Result:1.998014
+E1: she stay long	E2: as it take	 REL: Condition:1.999816
+E1: that you can stay long	E2: as you like	 REL: Condition:3.000000
+E1: that you can stay long	E2: as you want to stay	 REL: Condition:5.000000
+E1: i will not stay long	E2: i be just pass	 REL: Conjunction:1.998797
+E1: you be prepare a private dinner	E2: i will not stay long	 REL: Result:7.997855
+E1: i will go	E2: i will not stay long	 REL: Succession:2.000000
+E1: i like it a lot	E2: i will not stay long	 REL: Contrast:2.995689
+E1: we would enjoy it more	E2: we be not stay long	 REL: Condition:5.000000
+E1: i could show you	E2: you could stay longer	 REL: Condition:3.000000
+E1: it would be nice	E2: you could stay longer	 REL: Condition:2.000000
+E1: i want to see	E2: you could stay longer	 REL: Condition:5.000000
+E1: maybe i will go into canada	E2: i be not go to stay long	 REL: Succession:2.000000
+E1: it would be nice	E2: we could stay here longer	 REL: Condition:2.000000
+E1: i do not know	E2: i can stay here longer	 REL: Condition:4.000000
+E1: i do not want to make it	E2: i can stay here longer	 REL: Contrast:2.993646
+E1: you can stay here as long	E2: as you like	 REL: Condition:21.000000
+E1: you can stay here as long	E2: as you want	 REL: Condition:9.000000
+E1: like i say	E2: you can stay here as long	 REL: Condition:5.967000
+E1: i mean	E2: you can stay here as long	 REL: Condition:2.998871
+E1: it be all right	E2: you can stay here as long	 REL: Condition:0.998882
+E1: it be lousy	E2: you can stay here as long	 REL: Condition:0.999959
+E1: that you will not come	E2: you can stay here as long	 REL: Condition:0.998561
+E1: i can stay long	E2: as i want to tonight	 REL: Condition:2.000000
+E1: i can stay long	E2: as i want	 REL: Condition:10.000000
+E1: i can stay long	E2: as you want	 REL: Condition:10.999554
+E1: i can stay long	E2: as it take	 REL: Condition:8.000000
+E1: i can stay long	E2: you want i	 REL: Condition:7.000000
+E1: i can not stay longer	E2: they talk of other matter	 REL: Precedence:2.000000
+E1: i can not stay	E2: i can not stay longer	 REL: Result:6.000000
+E1: i will stay here longer	E2: you do not mind	 REL: Condition:1.991646
+E1: i will stay here longer	E2: we be head home	 REL: Precedence:5.996225
+E1: i find a good job in cologne	E2: i will stay here longer	 REL: Result:2.990472
+E1: you stay away long	E2: 'cause baby love my baby love	 REL: Result:9.000000
+E1: you stay away long	E2: you be never come back	 REL: Result:4.999107
+E1: i will not stay here longer	E2: i have to face he	 REL: Conjunction:0.999996
+E1: i will not stay here longer	E2: i wan na come home	 REL: Conjunction:1.999682
+E1: it will stay long	E2: as we do	 REL: Condition:2.000000
+E1: he will stay here long	E2: it be necessary	 REL: Condition:3.000000
+E1: he will stay here long	E2: as i want	 REL: Condition:2.000000
+E1: andreu be ours now	E2: he will stay here long	 REL: Conjunction:7.999996
+E1: i be stay long	E2: we be busy	 REL: Condition:4.000000
+E1: i be stay long	E2: lynette want i there	 REL: Condition:4.000000
+E1: i say	E2: i be stay long	 REL: Condition:0.997337
+E1: you stay here long	E2: as you want	 REL: Condition:11.000000
+E1: you stay here long	E2: as you like	 REL: Condition:21.000000
+E1: you stay here long	E2: as you behave	 REL: Condition:3.000000
+E1: you stay here long	E2: you look depressed	 REL: Result:2.992976
+E1: something happen to you body	E2: you stay here long	 REL: Condition:2.000000
+E1: you listen to i	E2: you stay here long	 REL: Condition:0.999501
+E1: i be frightened	E2: i stay here longer	 REL: Condition:13.000000
+E1: somebody will recognize this carriage	E2: i stay here longer	 REL: Condition:21.000000
+E1: well i sha not be	E2: i stay here longer	 REL: Condition:4.000000
+E1: i be go to lose my mind	E2: i stay here longer	 REL: Condition:3.000000
+E1: i will get bore to death	E2: i stay here longer	 REL: Condition:3.000000
+E1: you can stay here long	E2: as you live	 REL: Condition:2.000000
+E1: you can stay here long	E2: as i do	 REL: Condition:4.000000
+E1: you can stay here long	E2: as you want	 REL: Condition:104.000000
+E1: you can stay here long	E2: as you like	 REL: Condition:75.000000
+E1: you can stay here long	E2: as you need	 REL: Condition:24.000000
+E1: you can stay here long	E2: as you wish	 REL: Condition:2.000000
+E1: you can stay here long	E2: as you iike	 REL: Condition:2.000000
+E1: you can stay here long	E2: as it take	 REL: Condition:7.000000
+E1: you can stay here long	E2: as you please	 REL: Condition:3.000000
+E1: you can stay here long	E2: you have get ta patch thing up with you mom	 REL: Condition:1.999098
+E1: you can stay here long	E2: it be just gon na be a few day	 REL: Condition:1.995669
+E1: they be afraid	E2: we stay here long	 REL: Condition:2.000000
+E1: we will not stay long	E2: just the government inspector have pass through	 REL: Precedence:5.000000
+E1: we can not pay the rent anymore	E2: we will not stay long	 REL: Contrast:1.986060
+E1: i never think of that	E2: i can not stay there long	 REL: Precedence:1.999313Contrast:1.998870
+E1: i do not mean to stay long	E2: i will walk you back	 REL: Result:2.000000
+E1: susan could not stay long in the house	E2: she note inform that to with she	 REL: Succession:1.984372
+E1: my friend stay long	E2: it may please you	 REL: Condition:2.000000
+E1: i will stay with you long	E2: it be fun	 REL: Condition:4.000000
+E1: i will stay with you long	E2: as you want	 REL: Condition:5.000000
+E1: i will stay with you long	E2: as i live	 REL: Condition:8.000000
+E1: i will stay with you long	E2: as it need	 REL: Condition:2.000000
+E1: i will stay with you long	E2: as you need	 REL: Condition:2.000000
+E1: i will stay with you long	E2: we will save the child together	 REL: Condition:1.998894
+E1: i will stay here long	E2: as i can last	 REL: Condition:2.000000
+E1: i will stay here long	E2: as it take	 REL: Condition:4.000000
+E1: i will stay here long	E2: as i want	 REL: Condition:2.000000
+E1: i will stay here long	E2: as you do	 REL: Condition:5.000000
+E1: i will stay here long	E2: as you do not let	 REL: Result:3.000000
+E1: i will stay here long	E2: as it be need	 REL: Condition:3.000000
+E1: i will stay here long	E2: as you need	 REL: Condition:5.000000
+E1: i will stay here long	E2: i will even cancel my 5:30 at the tanning salon	 REL: Condition:3.998643
+E1: frankly i do not care about you opinion	E2: i will stay here long	 REL: Conjunction:0.999703
+E1: we must move at once	E2: we can not stay here longer	 REL: Succession:2.000000
+E1: you do not trust any word from gisaeng	E2: we can not stay here longer	 REL: Precedence:1.999388
+E1: she can stay long	E2: as she like	 REL: Condition:3.000000
+E1: she can stay long	E2: as she want	 REL: Condition:14.000000
+E1: she can stay long	E2: as she would like	 REL: Condition:28.000000
+E1: she can stay long	E2: as you need	 REL: Condition:1.999689
+E1: he go into this dark place	E2: he stay there a long time	 REL: Conjunction:0.999788
+E1: american prison stay be much longer	E2: the total incarceration rate be higher	 REL: Result:1.999124
+E1: he must rely on imprecise direction	E2: he can not stay down longer	 REL: Conjunction:1.995119
+E1: now you stay here as long	E2: as you like	 REL: Condition:2.000000
+E1: i stay too long	E2: here my father come	 REL: Contrast:1.996911
+E1: we will stay here longer	E2: we work we way back	 REL: Precedence:1.994942Conjunction:1.999358
+E1: i can not stay any longer	E2: i be nervous	 REL: Reason:2.000000
+E1: 's talk about the rest later	E2: i can not stay any longer	 REL: Reason:1.986607
+E1: you could stay long	E2: as you want	 REL: Condition:11.000000
+E1: you could stay long	E2: as no buyer come forward	 REL: Condition:4.000000
+E1: ally you can stay here long	E2: as you want	 REL: Condition:2.000000
+E1: they will stay that way long	E2: you keep you distance	 REL: Condition:2.000000
+E1: i can stay out long	E2: as i call by ten	 REL: Condition:2.000000
+E1: she will stay that way long	E2: as you cooperate	 REL: Condition:3.000000
+E1: you stay in there long	E2: as you like	 REL: Condition:12.000000
+E1: you really could risk exposure	E2: you stay in there long	 REL: Condition:2.000000
+E1: you will stay long	E2: as you want	 REL: Condition:2.000000
+E1: you will stay long	E2: as she want	 REL: Condition:2.000000
+E1: my place be empty in the city	E2: i would not have stay long anyone	 REL: Result:2.998811
+E1: i be gon na stay long	E2: as i like	 REL: Condition:9.000000
+E1: i do not ask to stay	E2: i will not stay longer	 REL: Conjunction:6.998518
+E1: we can stay longer	E2: you like	 REL: Condition:5.000000
+E1: it be work fine now	E2: we can stay longer	 REL: Condition:2.999823
+E1: we can ride we bike together	E2: we can stay longer	 REL: Precedence:3.998696
+E1: you stay alive long	E2: i be alive	 REL: Result:3.000000
+E1: i will not be stay long	E2: i want to see you	 REL: Precedence:3.999652
+E1: i will not be stay long	E2: i do not do housework	 REL: Conjunction:1.999513
+E1: i will not be stay long	E2: melancholic instrumental melody play background	 REL: Conjunction:1.999944
+E1: he do it over over again	E2: uh i can not stay long	 REL: Conjunction:4.000000
+E1: i do not think	E2: you would stay single long	 REL: Condition:5.997816
+E1: we can stay together long	E2: as we want	 REL: Condition:13.000000
+E1: i only agree to come	E2: we would not stay long	 REL: Reason:4.986960
+E1: you would not stay long	E2: as you might die	 REL: Precedence:1.999998Condition:1.993094
+E1: we can not stay long	E2: my mother 's watch the kid	 REL: Reason:5.000000
+E1: we stay over there long	E2: as we could stay without goin	 REL: Condition:3.000000
+E1: he be charming	E2: he wife could not stay away longer	 REL: Result:1.999681
+E1: silvia be part of the family obviously	E2: she can stay here as long	 REL: Conjunction:2.982519
+E1: you can not stay longer	E2: i be tired	 REL: Result:2.000000
+E1: it go slow	E2: i can stay longer time with you	 REL: Result:1.999274
+E1: i do not have to stay long	E2: i get better	 REL: Reason:4.000000
+E1: we can not stay here long	E2: the jeep be dead	 REL: Conjunction:2.999540
+E1: i might have twist my ankle	E2: we can not stay here long	 REL: Contrast:0.998721
+E1: i should not have stay away long	E2: i be all right	 REL: Result:3.000000
+E1: you will die	E2: that arrow stay in you longer	 REL: Condition:18.000000
+E1: i will not stay in this house longer	E2: you can not stay here alone	 REL: Conjunction:1.996020
+E1: i stay in the water long	E2: the water be cold	 REL: Condition:1.999996Contrast:1.999891
+E1: it will stay fine long	E2: i be around	 REL: Condition:2.000000
+E1: she might even stay longer	E2: you ask she nicely	 REL: Condition:2.000000
+E1: i can not stay here too long	E2: my machine friend will become nervous	 REL: Precedence:4.000000Conjunction:3.992805
+E1: i can not stay here too long	E2: my machine friend do something rash	 REL: Precedence:4.000000Conjunction:3.996194
+E1: no one 's go to object	E2: you stay in bed long	 REL: Condition:2.000000
+E1: now you stay long	E2: as you want	 REL: Condition:2.000000
+E1: he can stay long	E2: as he like	 REL: Condition:4.000000
+E1: he can stay long	E2: as he want	 REL: Condition:11.000000
+E1: he can stay long	E2: i do not want to be a taxi driver	 REL: Condition:1.998331
+E1: lt should not stay out long	E2: all be one a short wave	 REL: Result:2.999882
+E1: you can stay with i long	E2: as you want	 REL: Condition:5.000000
+E1: you can stay with i long	E2: as you need	 REL: Condition:6.000000
+E1: i sha not stay long	E2: as you like	 REL: Condition:2.998955
+E1: i stay out the way long	E2: as you wife be around	 REL: Condition:2.000000
+E1: maybe they could not stay in there long	E2: nebula particle flux would break down a hull	 REL: Succession:0.999944
+E1: l can not stay long	E2: we should not waste any time	 REL: Precedence:1.999973
+E1: i can stay in town long	E2: you want i	 REL: Condition:4.000000
+E1: anyway you can stay long	E2: as you like	 REL: Condition:3.000000
+E1: we have to stay upstairs long	E2: the worker be still in the building	 REL: Condition:4.000000
+E1: l can stay long	E2: as you want	 REL: Condition:2.000000
+E1: we will stay together long	E2: as it feel right	 REL: Condition:2.000000
+E1: it will stay close long	E2: i let it	 REL: Condition:2.000000
+E1: he move fast	E2: he will not stay there long	 REL: Result:2.000000
+E1: well you can stay here as long	E2: as you like	 REL: Condition:4.000000
+E1: well you can stay here as long	E2: it be still my murder	 REL: Condition:1.999674Contrast:1.999924
+E1: well you can stay here as long	E2: that be awfully nice of you	 REL: Condition:1.988379
+E1: he be not gon na stay there long	E2: you do not have to do this	 REL: Result:1.990446
+E1: this guy move fast	E2: he be not gon na stay there long	 REL: Result:2.000000
+E1: i promise	E2: i will stay in touch long	 REL: Condition:0.999360
+E1: i would like to stay here longer	E2: you must have lunch	 REL: Precedence:5.997484Conjunction:5.994775
+E1: fine stay long	E2: as you want	 REL: Condition:8.000000
+E1: i want to extend we stay long	E2: you truly admire you leader	 REL: Condition:1.994433
+E1: i can stay here long	E2: as i want	 REL: Condition:2.000000
+E1: i can stay here long	E2: as it take	 REL: Condition:5.000000
+E1: i can stay here long	E2: as you want	 REL: Condition:2.000000
+E1: i would like to stay long	E2: i be welcome	 REL: Condition:3.000000
+E1: you should stay long	E2: as you wish	 REL: Condition:3.000000
+E1: well i just want to stay here longer	E2: i watch the traffic	 REL: Conjunction:1.999884
+E1: we be gon na stay here long	E2: as it take	 REL: Condition:13.000000
+E1: we be gon na stay here long	E2: as we need	 REL: Condition:7.000000
+E1: they will be here soon	E2: we be gon na stay here long	 REL: Condition:1.998958
+E1: l be stay long	E2: we be busy	 REL: Condition:2.000000
+E1: i have to stay here long	E2: we be busy	 REL: Condition:3.000000
+E1: sergeant doake would not have stay on long enough	E2: laguerta should have give we the chance	 REL: Contrast:3.996443
+E1: sgt doakes would not have stay on long enough	E2: laguerta should have give we the chance	 REL: Contrast:2.995511
+E1: well you can stay here long	E2: as you want	 REL: Condition:5.000000
+E1: well you can stay here long	E2: as you need	 REL: Condition:9.000000
+E1: well you can stay here long	E2: you can stand the company	 REL: Condition:7.000000
+E1: i be gon na stay here long	E2: as it take	 REL: Condition:8.000000
+E1: i be gon na stay here long	E2: i really appreciate it	 REL: Condition:2.981112
+E1: i be gon na stay here long	E2: well the devil 's get you boyfriend	 REL: Condition:4.998306
+E1: he can stay long lona	E2: as he like	 REL: Condition:1.995407
+E1: harry have stay by the grave longer	E2: much might have be change	 REL: Result:4.988913
+E1: it be i	E2: i would stay there a good long while	 REL: Condition:0.999710
+E1: that we could stay in the flat long	E2: as we like	 REL: Condition:2.000000
+E1: you father promise we	E2: that we could stay in the flat long	 REL: Condition:1.999379
+E1: they will stay close long	E2: as it take	 REL: Condition:5.000000
+E1: honey stay long	E2: as you like	 REL: Condition:40.000000
+E1: he have stay away long	E2: we should be stranger	 REL: Result:2.000000
+E1: he stay on he foot long	E2: as he do	 REL: Condition:3.000000
+E1: i be surprised	E2: he stay on he foot long	 REL: Condition:1.992777
+E1: you have not change at all	E2: he stay with we long	 REL: Conjunction:2.000000
+E1: he leave the foreigner	E2: he stay with we long	 REL: Conjunction:1.988384
+E1: wonderland be vast	E2: we will not stay here long	 REL: Contrast:2.973475
+E1: he buy i this one	E2: he stay away long	 REL: Reason:2.000000
+E1: well you can stay long	E2: as you want	 REL: Condition:4.000000
+E1: well you can stay long	E2: as you like	 REL: Condition:26.000000
+E1: i can stay there as long	E2: as i like	 REL: Condition:3.000000
+E1: she stay last longer	E2: she stay be more frequent	 REL: Conjunction:0.999985
+E1: i do not ask to remain here	E2: i sha not be stay longer	 REL: Conjunction:0.999956
+E1: you stay longest	E2: you yell loudest	 REL: Conjunction:4.999824
+E1: you could stay there long	E2: as you like	 REL: Condition:2.000000
+E1: the secret be slap	E2: the secret do not stay out in the sun long	 REL: Conjunction:0.999640
+E1: i do not	E2: sam 's not gon na stay long	 REL: Contrast:1.994984
+E1: it do not come often	E2: it do not stay long	 REL: Conjunction:2.994859
+E1: the sun get eclipse	E2: it do not stay long	 REL: Contrast:0.999997
+E1: only some people be ready	E2: other want to stay out longer	 REL: Conjunction:0.997204
+E1: i do not know	E2: i can not stay in ready mode longer	 REL: Contrast:0.999028
+E1: you would not go to sleep	E2: i stay by you bed long	 REL: Alternative:1.999999
+E1: i have stay here long	E2: just i be a blackwood	 REL: Contrast:2.999805Conjunction:2.999980
+E1: you be the reason	E2: i have stay here long	 REL: Result:0.999701
+E1: i can not believe	E2: i have stay here long	 REL: Condition:0.999440
+E1: i want to not treat ross kid	E2: he have to stay here longer	 REL: Result:2.000000
+E1: he will not stay away long	E2: i have the music box	 REL: Condition:5.000000
+E1: i toss a concussion grenade	E2: he will not stay away long	 REL: Contrast:0.999358
+E1: you can stay there long	E2: as you need	 REL: Condition:7.000000
+E1: you can stay there long	E2: as you want	 REL: Condition:7.000000
+E1: well of course you can stay here long	E2: as you want	 REL: Condition:4.000000
+E1: yeah we be surprise	E2: you stay with that control bastard long	 REL: Condition:1.999586
+E1: we will see	E2: he stay that way long	 REL: Condition:2.000000
+E1: i would not be stay here long	E2: i would go back to shanghai	 REL: Conjunction:2.997009
+E1: we stay alive long	E2: we do not piss off the fae	 REL: Condition:4.000000
+E1: i would just not stay long freeze	E2: you may not be too attractive	 REL: Alternative:1.999975
+E1: you can come back to the senate	E2: you stay there long	 REL: Condition:5.991401Conjunction:5.995079
+E1: it simply delay the cooling process	E2: the marine iguana must not stay out long	 REL: Contrast:1.998796
+E1: i shall stay in london long	E2: as i choose	 REL: Condition:4.000000
+E1: you can stay with we long	E2: as you want	 REL: Condition:8.000000
+E1: you can stay with we long	E2: as you like	 REL: Condition:3.000000
+E1: i just could not stay away long	E2: i iove you much	 REL: Reason:2.000000
+E1: dear you may stay long	E2: as you read	 REL: Condition:3.000000
+E1: we will believe you	E2: we will be stay here longer	 REL: Contrast:3.961978
+E1: you will stay there long	E2: as it take	 REL: Condition:20.000000
+E1: he shall stay long	E2: it please i	 REL: Condition:9.000000
+E1: i can not stay in this country longer	E2: you abandon germany	 REL: Precedence:1.989370
+E1: i will not stay silent longer	E2: even it cost i my life	 REL: Condition:3.000000
+E1: my friend can stay here long	E2: as i want	 REL: Condition:3.000000
+E1: he figure	E2: you stay in one place long	 REL: Condition:9.000000
+E1: i guess	E2: you stay in one place long	 REL: Condition:8.974582
+E1: we can stay here as long	E2: as we take care of the cat	 REL: Condition:5.000000
+E1: we can stay here as long	E2: as we like	 REL: Condition:5.000000
+E1: i be sure	E2: he stay by you long	 REL: Condition:1.999757
+E1: it will stay that way long	E2: as you keep play along	 REL: Condition:12.000000
+E1: of course i could stay here longer	E2: i let my confusion abate	 REL: Conjunction:4.998915
+E1: she can stay with you long	E2: as you wish	 REL: Condition:3.000000
+E1: he probably will not stay long	E2: you will cheer he up	 REL: Conjunction:2.998649
+E1: maybe i will go into canada	E2: i be not gon na stay long	 REL: Succession:8.000000
+E1: ambar you can stay here as long	E2: as you like	 REL: Condition:3.000000
+E1: guy stay long	E2: as you like	 REL: Condition:1.999959
+E1: sanderson team stay out longer	E2: the other team be begin to show sign	 REL: Conjunction:1.993254
+E1: that i be eternally grateful	E2: but i ca not stay any longer	 REL: Contrast:1.988803
+E1: you just stay long	E2: as you like	 REL: Condition:2.000000
+E1: it only stay on long	E2: my thumb be press that switch	 REL: Result:2.000000
+E1: i be still go to put on that summer kimono	E2: a blind man should not stay in one place long	 REL: Precedence:2.996676
+E1: i be stay with you long	E2: i get it together	 REL: Condition:9.000000
+E1: it will stay suspend long	E2: the interference be in effect	 REL: Condition:6.000000
+E1: he stay down in long beach	E2: we do not hang out much	 REL: Result:7.000000
+E1: he will stay that way long	E2: i get john list	 REL: Condition:2.000000
+E1: i stay in venice long	E2: it be on you account	 REL: Result:2.991089
+E1: we could not stay any longer	E2: we could not take our goods with us	 REL: Conjunction:1.993353
+E1: she will stay with i long	E2: as i live	 REL: Condition:5.000000
+E1: i hope	E2: she will stay with i long	 REL: Condition:0.999641
+E1: my boy be stay with i long	E2: i be at borgensgaard	 REL: Condition:2.000000
+E1: my boy stay here with i long	E2: i be at borgen farm	 REL: Result:8.000000
+E1: it be fair but the fact	E2: us men stay attractive longer	 REL: Contrast:4.987285
+E1: you may stay here as long	E2: as you like	 REL: Condition:5.000000
+E1: you may stay here as long	E2: you will find clothes in the closet	 REL: Condition:1.984917
+E1: we can stay here long	E2: as you need	 REL: Condition:5.000000
+E1: we can stay here long	E2: as we please	 REL: Condition:9.000000
+E1: they will find you	E2: you stay longer in tehran	 REL: Condition:2.000000
+E1: actually you can stay long	E2: as you like	 REL: Condition:4.000000
+E1: actually you can stay long	E2: as you would like	 REL: Condition:2.000000
+E1: we be waste time	E2: you can only stay long	 REL: Result:4.999886
+E1: we know	E2: you decide to stay there longer	 REL: Condition:2.000000
+E1: please let	E2: you decide to stay there longer	 REL: Condition:1.999919
+E1: i be confused	E2: i could not stay in hong kong longer	 REL: Result:2.980699
+E1: he will stay loyal long	E2: as he son remain with we	 REL: Condition:15.000000
+E1: we must come up with a plan	E2: she stay be prolong	 REL: Condition:2.000000
+E1: i be go to come back	E2: that i stay on a bit longer	 REL: Contrast:2.999477
+E1: they hear that	E2: you can stay just as long	 REL: Condition:0.996258
+E1: i stay longer at the pool	E2: you be not gon na be home	 REL: Reason:10.998266
+E1: in the meantime you stay here long	E2: as you need	 REL: Condition:8.000000
+E1: in the meantime you stay here long	E2: i will take the guest room	 REL: Condition:7.977909
+E1: they could stay in the rectory long	E2: they run a respectable business	 REL: Condition:2.000000
+E1: that they would be stay longer	E2: these good heart be go in the trash anyway	 REL: Conjunction:0.999883
+E1: i go to see pramod pathak	E2: he do not stay there longer	 REL: Contrast:1.999140
+E1: two can stay here long	E2: as you want	 REL: Condition:10.000000
+E1: that he could stay with we long	E2: as he want	 REL: Condition:3.000000
+E1: the other student be kill in the crash	E2: i stay by the fire long	 REL: Condition:8.999682
+E1: we do not have anywhere to go	E2: she can not stay here longer	 REL: Contrast:1.999954
+E1: i will stay happy long	E2: as i stay here with you	 REL: Condition:6.000000
+E1: you can stay at mine long	E2: as you want	 REL: Condition:3.000000
+E1: he will be stay in this house long	E2: as he wish	 REL: Condition:3.000000
+E1: you can stay at the hotel long	E2: as you want	 REL: Condition:2.000000
+E1: you know	E2: you can stay at the hotel long	 REL: Condition:1.999029
+E1: deal stay in place long	E2: you win she murder trial	 REL: Condition:7.000000
+E1: they be catch many fish	E2: they decide to stay out longer	 REL: Result:1.992554
+E1: it just stay with i long hard	E2: i could not take it anymore	 REL: Result:1.996328Conjunction:1.999855
+E1: you decide to go across	E2: i can not stay out in this heat longer	 REL: Condition:0.999949
+E1: i be work	E2: i can not stay away too long	 REL: Result:1.986626
+E1: honest man stay honest long	E2: as it pay	 REL: Condition:4.000000
+E1: you can not buy honest man	E2: honest man stay honest long	 REL: Condition:1.997948
+E1: i would stay here as long	E2: they would let i	 REL: Condition:2.000000
+E1: she will be	E2: she stay there longer	 REL: Condition:4.000000
+E1: she squeeze the air out it	E2: it stay fresh longer	 REL: Result:2.000000
+E1: please stay long	E2: as you like	 REL: Condition:1.999901
+E1: please stay long	E2: as you want	 REL: Condition:12.998244
+E1: please stay long	E2: as you would like	 REL: Condition:2.999572
+E1: my agent be not very happy about it	E2: though i could not stay away longer	 REL: Contrast:2.000000
+E1: in northern city more snow fall	E2: more snow stay longer	 REL: Conjunction:2.999340
+E1: you would stay young long	E2: as i decide to keep you	 REL: Condition:11.000000
+E1: it be fearfully hot in this room	E2: i can hardly bear to stay longer	 REL: Conjunction:2.998735
+E1: i stay there long	E2: as i want	 REL: Condition:3.000000
+E1: i be stayin long	E2: nothing disturb this delicate balance	 REL: Condition:3.000000
+E1: i be stay here with manni long	E2: he need i	 REL: Condition:2.000000
+E1: i can stay here as long	E2: you can not stop i	 REL: Condition:1.991669Conjunction:1.999654
+E1: they come over	E2: they end up stay longer	 REL: Conjunction:1.998010
+E1: foyet do not stay in one place long	E2: kevin need to stay	 REL: Precedence:0.998837
+E1: you need to do it quickly	E2: foyet do not stay in one place long	 REL: Conjunction:0.999993
+E1: you would not stay long at the party	E2: the bachelor party be in a lifetime	 REL: Succession:1.997530
+E1: they will get kill	E2: they stay here longer	 REL: Condition:2.000000
+E1: he should stay longer	E2: peio manage well by himself	 REL: Conjunction:0.999963
+E1: you could stay here long	E2: as you want	 REL: Condition:6.000000
+E1: far you can stay with i long	E2: as you end up with a high school diploma	 REL: Result:8.000000
+E1: i will stay	E2: i will stay long as necessary	 REL: Condition:2.000000Contrast:2.000000
+E1: she will have it all to herself	E2: you can stay with she all night long	 REL: Condition:0.999966Conjunction:0.999992
+E1: i would have come closer	E2: i stay longer by you side	 REL: Conjunction:0.998684
+E1: uh well you can stay here in you own home long	E2: as you like	 REL: Condition:3.000000
+E1: he can stay here long	E2: as you need	 REL: Condition:3.000000
+E1: he can stay here long	E2: it be no trouble at all	 REL: Condition:2.997368
+E1: troy can stay long	E2: as she want	 REL: Condition:3.000000
+E1: you may stay in this house long	E2: as you wish	 REL: Condition:2.000000
+E1: you have not start to work yet	E2: you can stay a longer	 REL: Result:0.998091
+E1: you just stay here long	E2: as you like	 REL: Condition:3.000000
+E1: you can stay on my couch long	E2: as you want	 REL: Condition:6.000000
+E1: well unfortunately we can not stay long	E2: we have to go	 REL: Reason:1.994404
+E1: that you be stand at a crossroads	E2: that you can not stay there longer	 REL: Succession:1.997223
+E1: i just call lydia	E2: she can stay longer	 REL: Conjunction:2.000000
+E1: i would have stay longer in you place	E2: that be the general 's call	 REL: Conjunction:1.999916
+E1: i will stay there long	E2: as you want	 REL: Condition:3.000000
+E1: tom can stay here as long	E2: he can learn better	 REL: Precedence:1.999841Condition:1.997216
+E1: you only have to stay long	E2: as you want	 REL: Condition:2.000000
+E1: you can stay on the couch long	E2: as you like	 REL: Condition:3.000000
+E1: we will not stay out long	E2: you will be back inside the castle	 REL: Precedence:3.997516
+E1: she will stay in that wait room long	E2: they let she	 REL: Condition:3.000000
+E1: go stay long	E2: as you want	 REL: Condition:4.999887
+E1: i will take a later flight to phoenix	E2: i stay here just as long	 REL: Conjunction:1.987575
+E1: i just stay drunk long	E2: as the money last	 REL: Condition:5.000000
+E1: we have stay long at the wall	E2: we be on the plateau	 REL: Conjunction:0.999840
+E1: i be stay here long	E2: as the war last	 REL: Condition:2.000000
+E1: i be stay here long	E2: as you need	 REL: Condition:2.000000
+E1: i must stay with he long	E2: he want i	 REL: Condition:6.000000
+E1: you can stay in sweden long	E2: you respect we law	 REL: Condition:3.000000
+E1: you can not stay on the fence longer	E2: it be not just emma	 REL: Conjunction:1.999419
+E1: we can stay there long	E2: as we want	 REL: Condition:2.000000
+E1: he would have call	E2: he be go to stay longer	 REL: Condition:2.000000
+E1: harry can stay long	E2: as he like	 REL: Condition:5.000000
+E1: today just take one step	E2: today stay outside long	 REL: Condition:2.999587Conjunction:2.999947
+E1: we will stay with you long	E2: as it take to figure this out	 REL: Condition:7.000000
+E1: we will stay with you long	E2: you want we	 REL: Condition:2.000000
+E1: i would never be afraid again	E2: we will stay with you long	 REL: Condition:0.999886
+E1: i do not know	E2: i can stay up longer	 REL: Condition:7.000000
+E1: i could stay here as long	E2: as i like	 REL: Condition:2.000000
+E1: i could stay here as long	E2: as i want	 REL: Condition:2.000000
+E1: the doctor say	E2: i could stay here as long	 REL: Condition:1.997175
+E1: they could stay at my place long	E2: as they need	 REL: Condition:4.000000
+E1: i tell they	E2: they could stay at my place long	 REL: Condition:3.999467
+E1: you can stay out here long	E2: as you like	 REL: Condition:2.000000
+E1: you can stay out here long	E2: you keep we away each other	 REL: Condition:1.999528
+E1: hari be not plan to stay here long	E2: the empty hanger suggest	 REL: Conjunction:0.999746
+E1: you could stay there as long	E2: as you agree to pay the utility	 REL: Condition:2.000000
+E1: you could stay there as long	E2: as you want	 REL: Condition:3.000000
+E1: she can stay with we long	E2: as she want	 REL: Condition:3.000000
+E1: i be go to stay long	E2: you will have i	 REL: Condition:9.000000
+E1: i mean	E2: we stay puppy a long time	 REL: Alternative:7.000000
+E1: you would better pray	E2: you german friend stay a long time	 REL: Reason:5.992950
+E1: the girl stay along with she hand	E2: i will lessen she debt	 REL: Conjunction:3.999625
+E1: you lose	E2: the girl stay along with she hand	 REL: Contrast:0.999946
+E1: he would never stay long	E2: as i want	 REL: Condition:6.000000
+E1: we convince he	E2: he do not stay in we institution long	 REL: Alternative:1.998686
+E1: it can stay here long	E2: as you need	 REL: Condition:3.000000
+E1: i shall stay in this tower long	E2: it please i	 REL: Condition:2.000000
+E1: i know	E2: i do not really mean to stay that long anyway	 REL: Contrast:4.000000
+E1: i give it a deep cleanse	E2: medium do not usually stay long in midnight	 REL: Precedence:5.987833
+E1: we can stay off long	E2: as we need	 REL: Condition:2.000000
+E1: we can stay out here long	E2: as you need	 REL: Condition:4.000000
+E1: he stay behind to hold they off long	E2: he be not dead	 REL: Condition:8.000000
+E1: he can stay out long	E2: as he like	 REL: Condition:2.000000
+E1: you will stay alive long	E2: as you stay here	 REL: Condition:3.000000
+E1: i do not care to stay here long	E2: sweet angel beckon i away	 REL: Conjunction:3.999903
+E1: my savior smile	E2: i do not care to stay here long	 REL: Conjunction:4.973830
+E1: bid i come	E2: i do not care to stay here long	 REL: Conjunction:7.995208
+E1: my saviour smile	E2: i do not care to stay here long	 REL: Conjunction:2.996607
+E1: now fred 's go too	E2: i be not stay here a second longer	 REL: Result:7.000000
+E1: we could just skip central europe	E2: we stay longer in spain	 REL: Conjunction:0.998882
+E1: he should have stay longer	E2: we really do not get a grip on he	 REL: Reason:6.000000
+E1: the relationship will not stay that long	E2: i decide to go	 REL: Result:5.986235
+E1: i know	E2: i want to stay off the ice long	 REL: Condition:0.995272
+E1: it be a door	E2: we stay stand here long	 REL: Condition:0.999883
+E1: l can not stay long alexis	E2: we should not waste any time	 REL: Precedence:0.999246
+E1: i do not know	E2: i can stay that long	 REL: Condition:3.000000
+E1: i could not stay long in this flat	E2: she live at she grand father 's	 REL: Reason:3.000000Conjunction:2.999775
+E1: well i stay long	E2: i could stomach it	 REL: Condition:2.000000
+E1: well you stay long	E2: as you would like	 REL: Condition:5.000000
+E1: we do not have to stay here long	E2: we will take a proper holiday together	 REL: Precedence:3.997619
+E1: you will not stay here longer	E2: you can not do that	 REL: Condition:4.000000
+E1: you can stay out long	E2: as you want	 REL: Condition:5.000000
+E1: we be gon na stay out here long	E2: as it take	 REL: Condition:3.000000
+E1: we be gon na stay out here long	E2: someday this strike will end sir	 REL: Condition:1.986409
+E1: beckett stay alive long	E2: as you keep she on a leash	 REL: Condition:5.000000
+E1: i do not have enough	E2: especially we decide to stay longer	 REL: Condition:6.991189
+E1: von can stay longer	E2: you wish	 REL: Condition:4.000000
+E1: the blame be mine	E2: only i have stay longer	 REL: Condition:3.999395
+E1: pearl will stay here long	E2: as i do	 REL: Condition:9.000000
+E1: you come	E2: you could not stay away i longer	 REL: Reason:3.000000
+E1: i think	E2: you could not stay away i longer	 REL: Reason:2.999512
+E1: cliff dear do not stay there long	E2: you might catch cold	 REL: Result:4.000000
+E1: we be go to be the stupid couple	E2: to the stupid couple stay out long	 REL: Precedence:1.999756Reason:1.999303Conjunction:1.999912
+E1: honestly she be sober	E2: she do not stay sober long	 REL: Contrast:3.989022
+E1: you can stay here long long	E2: you do not mind a cry baby	 REL: Result:5.000000
+E1: you mother can stay long	E2: as she like	 REL: Condition:3.999292
+E1: we can stay in here long	E2: as it take	 REL: Condition:2.000000
+E1: he be gon na let	E2: we stay in the house long	 REL: Condition:2.999947
+E1: he be go to let	E2: we stay in the house long	 REL: Condition:0.999987
+E1: no man stay out that long	E2: no man turn down a woman	 REL: Conjunction:5.999932
+E1: garvey parent may stay at we place long	E2: as they like	 REL: Condition:4.000000
+E1: you boy will stay here not long	E2: justice will be do on 'em	 REL: Precedence:3.000000
+E1: the ice smashing cold war comrade will not stay long	E2: as sea frozen water will soon become impassable	 REL: Contrast:11.000000
+E1: we be not gon na be stay here long	E2: we can not leave we stuff in the car	 REL: Contrast:0.997588
+E1: that everybody can stay long	E2: as they want	 REL: Condition:6.000000
+E1: he will not open the gate	E2: it stay shut longer	 REL: Condition:3.994446Conjunction:3.997247
+E1: you will not stay quiet long	E2: i do not tell i	 REL: Condition:4.000000
+E1: coffey flatbed drop down starboard	E2: coffey flatbed stay along the cliff edge	 REL: Conjunction:1.998318
+E1: i be gon na stay in long	E2: as i can stay in	 REL: Condition:2.000000
+E1: the bounce will stay in my step long	E2: i get my share	 REL: Condition:2.000000
+E1: the bounce will stay in my step long	E2: my share do not wind up in you pocket	 REL: Condition:1.998477
+E1: i should get pneumonia	E2: i stay in this draft longer	 REL: Condition:4.000000
+E1: i have only stay long	E2: as i have you	 REL: Condition:2.000000
+E1: you stay long no problem	E2: as you need	 REL: Condition:2.999247
+E1: we could stay there as long	E2: as we need	 REL: Condition:3.000000
+E1: my mom say	E2: we could stay there as long	 REL: Condition:1.999599
+E1: tawney you can stay here as long	E2: as you like	 REL: Condition:4.000000
+E1: hell we get	E2: more more user stay on longer	 REL: Conjunction:2.999028
+E1: he can stay longer	E2: you want to build bridge	 REL: Condition:2.000000
+E1: these two will not be stay longer	E2: unmarried people be delightfully easy to shock	 REL: Result:8.000000
+E1: i will not be need a teary farewell	E2: as i be stay in the castle long	 REL: Condition:2.000000
+E1: this be	E2: you stay in the whale longer	 REL: Condition:2.000000
+E1: they can stay there as long	E2: as they like	 REL: Condition:4.000000
+E1: that be outside the wall	E2: they can stay there as long	 REL: Condition:1.999944
+E1: as it take	E2: i will stay long forever to witness the end	 REL: Condition:1.998253
+E1: i would stay on long	E2: as i do	 REL: Condition:10.996982
+E1: that we should stay in the air long	E2: the situation have be resolve	 REL: Precedence:2.000000Condition:2.000000
+E1: she defend	E2: she probably stay one point a long time	 REL: Conjunction:0.999571
+E1: he will stay in power long	E2: he be alive	 REL: Condition:2.000000
+E1: the sweat do not stay as long	E2: the sweat dry faster	 REL: Reason:1.999895Conjunction:1.997234
+
+
+query:be%suspicious
+
+E1: i would be suspicious	E2: i be you	 REL: Condition:3.000000
+E1: they be suspicious	E2: it be not the ring	 REL: Reason:1.984946
+E1: the organization be not give i work	E2: they be suspicious	 REL: Condition:2.000000
+E1: type a always like to argue	E2: they be suspicious	 REL: Result:1.987889Conjunction:1.999648
+E1: we be suspicious	E2: only they be target he	 REL: Reason:2.000000
+E1: we be suspicious	E2: something suspicious happen	 REL: Reason:2.000000
+E1: it be we first commercial release	E2: we be suspicious	 REL: Result:2.000000
+E1: i be suspicious	E2: i come to have a look	 REL: Result:3.000000
+E1: i be suspicious	E2: i be always invent thing	 REL: Result:0.999426
+E1: well you will forgive i	E2: i be suspicious	 REL: Condition:3.000000
+E1: since the terrorist attack be frequently show on t.v.	E2: i be suspicious	 REL: Conjunction:0.997213
+E1: detective only come	E2: it be suspicious	 REL: Condition:7.000000
+E1: this have never happen	E2: it be suspicious	 REL: Precedence:30.000000
+E1: it have not yet be invent in engel lifetime	E2: i become suspicious	 REL: Result:3.999704
+E1: i wonder	E2: they would be suspicious	 REL: Condition:4.000000
+E1: he be suspicious	E2: it be a a paper	 REL: Reason:6.000000
+E1: he be suspicious	E2: he do not	 REL: Condition:4.000000
+E1: he be suspicious	E2: dutch have a theory though	 REL: Contrast:4.000000
+E1: the husband hire you	E2: he be suspicious	 REL: Reason:2.000000
+E1: milos be not try to leave	E2: he be suspicious	 REL: Reason:2.000000
+E1: ever since my husband appear	E2: he be suspicious	 REL: Contrast:1.998935
+E1: i do not want to hear that	E2: she be suspicious	 REL: Result:8.000000
+E1: she be not a normal woman	E2: she be suspicious	 REL: Contrast:1.998553
+E1: it be obviously suspicious	E2: we agent plan the mission	 REL: Result:1.998023Conjunction:1.999987
+E1: that be suspicious	E2: i refuse	 REL: Contrast:2.999994
+E1: conn watch supervisor mugford say	E2: the death be suspicious	 REL: Reason:0.999985
+E1: everything be suspicious	E2: you look at it properly	 REL: Condition:4.000000
+E1: the fire be of suspicious origin	E2: they need to finish they investigation	 REL: Conjunction:0.999998
+E1: you be suspicious	E2: i should not tell you a thing	 REL: Result:8.999735
+E1: you be suspicious	E2: she be terrible	 REL: Result:1.998095
+E1: you be suspicious	E2: you want to ring he back	 REL: Conjunction:0.999705
+E1: it be a difficult	E2: you be suspicious	 REL: Condition:2.000000
+E1: a client must have drop it	E2: you be suspicious	 REL: Result:2.000000
+E1: i be always suspicious of those	E2: of those spread by numerous underground runner	 REL: Conjunction:3.999391
+E1: she be marry to a man	E2: lola be very suspicious of i	 REL: Conjunction:0.999967
+E1: now i be suspicious	E2: i order more test	 REL: Conjunction:0.998807
+E1: suddenly he speak up about the 1983 incident	E2: that be very suspicious	 REL: Conjunction:2.000000
+E1: san tan furniture olivia soto have a nice store in a nice mall	E2: i be not suspicious	 REL: Result:2.000000
+E1: thereupon telegram be shoot in all direction	E2: no news could be gather of any suspicious landing	 REL: Contrast:0.999892
+E1: they would be suspicious eye	E2: he hesitate longer	 REL: Condition:2.000000
+E1: wondering eye be already upon he	E2: they would be suspicious eye	 REL: Condition:1.999930
+E1: he would be suspicious	E2: it be a man	 REL: Condition:4.000000
+E1: the pagan indian be a unsuspicious fool	E2: you can do he up	 REL: Conjunction:0.999973
+E1: he will be suspicious	E2: he smell alcohol on you	 REL: Condition:2.000000
+E1: he will be suspicious	E2: i do not	 REL: Condition:5.000000
+E1: you be too suspicious	E2: you be too trust	 REL: Conjunction:6.995300
+E1: the savage be still suspicious	E2: at any moment the newcomer might excite they	 REL: Conjunction:1.999624
+E1: we can get fake boyfriend	E2: no one will be suspicious	 REL: Result:2.992980
+E1: the missionary attempt to construct a base	E2: the missionary be repel by the suspicious local	 REL: Contrast:0.999998
+E1: it would be suspicious	E2: you be not here	 REL: Condition:2.000000
+E1: i keep insist	E2: you will be suspicious of i	 REL: Precedence:0.999999
+E1: mr bene be a good guy	E2: he tend to be suspicious	 REL: Contrast:0.995578
+E1: she would be suspicious	E2: it be not a us number	 REL: Condition:2.000000
+E1: quickly they will be suspicious	E2: i can handle he	 REL: Conjunction:0.999892
+E1: you know	E2: i be a suspicious man	 REL: Condition:3.000000
+E1: not think this scotch be helping either	E2: i be a suspicious man	 REL: Condition:0.999197
+E1: people would be suspicious	E2: i do not answer the phone	 REL: Condition:3.000000
+E1: it will be very suspicious	E2: i now disappear from the scene	 REL: Condition:2.000000
+E1: raines be real suspicious	E2: angelo just keep giggling	 REL: Conjunction:1.999994
+E1: my wife be a extraordinary woman	E2: i be a suspicious idiot	 REL: Conjunction:1.999208
+E1: ca not have a happy married life	E2: you be always suspicious	 REL: Condition:4.000000
+E1: i can not ask they identification	E2: you be always suspicious	 REL: Result:2.998134
+E1: frankly we be somewhat suspicious of mr. ravenwood	E2: a american be mention prominently in a secret nazi cable	 REL: Result:40.978900
+E1: you will die in a accident	E2: ye would not be suspicious	 REL: Result:2.999694
+E1: i go to villa hoffmann	E2: i be suspicious about the death	 REL: Conjunction:0.999973
+E1: george karras be not at all suspicious	E2: she lie to she husband	 REL: Conjunction:2.999928
+E1: george karras be not at all suspicious	E2: he adopt ben	 REL: Conjunction:0.999976
+E1: our problems might be solved	E2: i be always suspicious of any answer	 REL: Contrast:1.998974
+E1: they be gon na be suspicious	E2: we do not act normal	 REL: Condition:10.000000
+E1: people will become suspicious	E2: i do not answer the phone	 REL: Condition:3.000000
+E1: a boxer change he style suddenly	E2: people will become suspicious	 REL: Precedence:3.998955
+E1: these folk be suspicious of the cop	E2: long this happen	 REL: Precedence:7.999759
+E1: it be mighty suspicious	E2: i do not get it from he	 REL: Condition:1.999989Conjunction:1.999978
+E1: the shogun be a suspicious man	E2: i hate popular lord	 REL: Conjunction:0.998917
+E1: you be suspicious of she	E2: she be now my lover	 REL: Reason:25.000000
+E1: you do not tell they you name	E2: you be suspicious of she	 REL: Conjunction:2.999206
+E1: it would be too suspicious	E2: i do not keep it	 REL: Condition:5.000000
+E1: he be suspicious of you	E2: he want you out the way	 REL: Conjunction:1.999768
+E1: soon they become suspicious	E2: they take he in	 REL: Conjunction:0.999991
+E1: i have not be suspicious at the tavern	E2: this would not have happen	 REL: Result:1.000000
+E1: he would have be suspicious	E2: i do not talk to he	 REL: Condition:2.000000
+E1: uncle do not call be suspicious	E2: young master other will be suspicious	 REL: Condition:1.999434
+E1: uncle do not call be suspicious	E2: young master other will be suspicious	 REL: Condition:1.999434
+E1: i may not come home	E2: you charming aunt will become suspicious	 REL: Precedence:3.999964Conjunction:3.997454
+E1: it would have be suspicious	E2: i do not	 REL: Condition:2.000000
+E1: it would have be suspicious	E2: he do not get upset at such bias question	 REL: Condition:3.000000
+E1: i have a few drink meself	E2: it would have be suspicious	 REL: Alternative:2.998289
+E1: i just start to gain he trust	E2: it would have be suspicious	 REL: Condition:0.995512
+E1: nobody 's gon na be suspicious	E2: we act suspicious	 REL: Alternative:5.000000
+E1: the king be suspicious of he first minister	E2: we should encourage those suspicion	 REL: Conjunction:2.996467
+E1: people have become suspicious	E2: she have to move on	 REL: Conjunction:0.999973
+E1: my father be suspicious of they	E2: i never see they again	 REL: Conjunction:2.000000
+E1: they see many boat	E2: they will not be suspicious	 REL: Result:7.000000
+E1: thney see many boat	E2: they will not be suspicious	 REL: Result:2.000000
+E1: natasha contact may be suspicious	E2: they want a new face	 REL: Result:7.996206
+E1: she contact may be suspicious	E2: they want a new face	 REL: Result:3.000000
+E1: i be suspicious of they all	E2: the guerrilla sometimes come to confess	 REL: Contrast:1.999590
+E1: hickey be suspicious doyle	E2: mccool be stupid	 REL: Conjunction:1.989872
+E1: he be suddenly suspicious	E2: as he be be warn	 REL: Condition:1.999991
+E1: you be suspicious of everyone	E2: tonight show begin now	 REL: Precedence:1.991798
+E1: i hope	E2: you be suspicious of everyone	 REL: Result:3.000000
+E1: i be never suspicious of you	E2: i be never suspicious of you	 REL: Conjunction:0.999685
+E1: i be never suspicious of you	E2: i be never suspicious of you	 REL: Conjunction:0.999685
+E1: they be special number suspicious solitary	E2: some prime number be more special	 REL: Conjunction:7.000000
+E1: you do something wrong	E2: you be suspicious of he	 REL: Result:1.993695
+E1: we catch he	E2: he be act suspicious	 REL: Reason:4.000000
+E1: else people will become suspicious	E2: the bandit will find we	 REL: Conjunction:1.000000
+E1: it be less suspicious	E2: we have a suitcase	 REL: Condition:4.000000
+E1: lt would be pretty suspicious	E2: we do not	 REL: Condition:2.000000
+E1: everybody be suspicious about you	E2: we find the true culprit	 REL: Succession:4.995143
+E1: it would be more suspicious	E2: this only get a internal investigation	 REL: Condition:3.000000
+E1: it would be more suspicious	E2: we do not	 REL: Condition:4.000000
+E1: he will be less suspicious	E2: you be dead	 REL: Condition:2.000000
+E1: she be suspicious of subversive acto	E2: we have a capture order	 REL: Conjunction:1.999220
+E1: cop will be suspicious	E2: you do not show	 REL: Condition:9.000000
+E1: a client must have drop it	E2: you be damned suspicious	 REL: Result:4.000000
+E1: i have never be suspicious of church	E2: i suspect god sometimes	 REL: Contrast:0.999929
+E1: that bozo 's never show any interest	E2: i be gettin a little suspicious	 REL: Result:1.995201
+E1: they be fiercely defensive	E2: they be suspicious of the government	 REL: Conjunction:0.995140
+E1: it be not	E2: i be suspicious of you	 REL: Reason:2.000000
+E1: be it suspicious	E2: i be get a bad vibe from this guy	 REL: Reason:1.998995
+E1: geta be suspicious	E2: guard protect he from potential assassin	 REL: Conjunction:0.999962
+E1: i be go to stop	E2: the old woman be get suspicious	 REL: Succession:2.000000
+E1: she be suspicious of you optimism	E2: she be suspicious of you help	 REL: Conjunction:2.000000
+E1: she be suspicious of you optimism	E2: she be suspicious of you help	 REL: Conjunction:2.000000
+E1: we wait you	E2: you kindness be get more more suspicious	 REL: Conjunction:1.993610
+E1: you always twist thing around	E2: you be suspicious of everything	 REL: Conjunction:2.976827
+E1: unit can be suspicious	E2: they be not the only one	 REL: Result:2.000000
+E1: the one come with we lawnmower	E2: it be suspiciously pro lawnmower	 REL: Concession:2.999995
+E1: it be part of the reason	E2: my dad be suspicious of he	 REL: Result:1.988692
+E1: joe can check with the station	E2: he be damnably suspicious	 REL: Result:8.000000Condition:8.000000
+E1: i be suspicious of this	E2: i have the exact same idea	 REL: Reason:2.995863
+E1: they ask	E2: you have be behave suspiciously	 REL: Condition:10.000000
+E1: he finish do the unforgivable	E2: the white horse nightclub be destroy by a suspicious fire	 REL: Succession:1.999407
+E1: ellie be a little suspicious	E2: i have to devise a new system	 REL: Result:3.997662
+E1: i will ask she	E2: dr. matheson have be act suspicious	 REL: Condition:4.000000
+E1: it be full of suspicious noise	E2: i be afraid	 REL: Conjunction:0.999021
+E1: it be full of suspicious noise	E2: of suspicious noise be frightening	 REL: Conjunction:0.999879
+E1: that be my mom	E2: you mom be suspicious too	 REL: Precedence:1.998836
+E1: i couid be sell any price	E2: i be get little suspicious	 REL: Conjunction:2.000000
+E1: we can not say yet	E2: it be a suspicious coincidence	 REL: Contrast:1.993924
+E1: we wine ourselves a month	E2: he become increasingly suspicious	 REL: Conjunction:1.997563
+E1: even contact be necessarily limited	E2: they mind be suspicious	 REL: Conjunction:0.995981
+E1: he case be already suspicious	E2: we can not risk go	 REL: Succession:0.999997
+E1: it be more suspicious	E2: the place be always dark	 REL: Condition:2.000000
+E1: i receive a four five email	E2: a four five email be very suspicious to i	 REL: Alternative:1.988798
+E1: i be already suspicious about you new positive attitude	E2: you describe	 REL: Succession:8.981724
+E1: somebody must have steal it	E2: i be suspicious of hinazuki	 REL: Conjunction:1.985991
+E1: thornton be not suspicious	E2: she sure be now	 REL: Precedence:1.999095
+E1: that be simply not the case	E2: roman must be a suspicious man	 REL: Result:1.998585
+E1: danvers will become suspicious	E2: we bring many man over	 REL: Condition:2.000000
+E1: that you parent be suspicious of they neighbor	E2: they be muslim	 REL: Reason:3.996714
+E1: the only reason be	E2: that you parent be suspicious of they neighbor	 REL: Reason:3.999993
+E1: the lodge will be suspicious	E2: you do not come to the elapsing	 REL: Condition:2.000000
+E1: i have be suspicious of something	E2: you date confirm my fear	 REL: Conjunction:2.999115
+E1: phyllis be good at she job	E2: she be suspicious of everybody	 REL: Reason:6.000000
+E1: the president be always suspect by some	E2: people be suspicious of power	 REL: Reason:3.000000
+E1: ta stop be suspicious	E2: ta stop just enjoy	 REL: Conjunction:0.999292
+E1: i have be read many detective story lately	E2: i be just naturally suspicious	 REL: Result:1.999997
+E1: i have to give it up	E2: he be get very suspicious	 REL: Reason:2.000000
+E1: i be always suspicious of hard woman	E2: only i be use my head	 REL: Reason:5.999617
+E1: they be appal at they degrading treatment	E2: they be very suspicious about the future intention	 REL: Conjunction:0.999826
+E1: he become too suspicious	E2: i leave	 REL: Conjunction:1.999987
+E1: stephen eli be miss in suspicious circumstance	E2: he be treat at mayside	 REL: Conjunction:5.993164
+E1: i do not approach you	E2: i be suspicious of seo dong ha	 REL: Reason:2.000000
+E1: he will be suspicious of a woman	E2: he meet in a bar hotel lobby	 REL: Alternative:1.999055
+E1: i would have be suspicious of i	E2: i would be in you shoe	 REL: Condition:5.000000
+E1: it will be too suspicious	E2: you go now	 REL: Condition:2.000000
+E1: we be just check to see	E2: anyone remember anything suspicious	 REL: Condition:11.000000
+E1: maybe you would get suspicious	E2: they put a tracker on you car	 REL: Conjunction:3.999996
+E1: maybe you would get suspicious	E2: you ruin the plan	 REL: Conjunction:1.000000
+E1: i do not realise	E2: it be a suspicious bag	 REL: Precedence:2.999218
+E1: maybe he be act suspiciously	E2: you be interrogate he with a broomstick	 REL: Reason:2.000000
+E1: i be not suspicious at all	E2: i see you	 REL: Precedence:3.000000
+E1: he must have be suspicious	E2: he signal drop out	 REL: Succession:1.996186Reason:2.000000
+E1: he must have be suspicious	E2: right he train depart	 REL: Succession:1.999952Reason:1.988003
+E1: a problem could develop	E2: the earth boy be suspicious of i	 REL: Contrast:3.000000
+E1: it be a stupid risk	E2: fendelman be already suspicious	 REL: Conjunction:0.999152
+E1: i do not insist more	E2: he could be suspicious	 REL: Reason:3.000000
+E1: you be say	E2: you be still suspicious of i	 REL: Conjunction:1.999665
+E1: the arkonians be suspicious	E2: eventually the high command withdraw its contingent	 REL: Conjunction:8.000000
+E1: we give he many clue	E2: he become very very suspicious	 REL: Conjunction:3.999876
+E1: they would not get it	E2: they be damned suspicious	 REL: Result:4.000000
+E1: we have not yet meet this randall fellow	E2: we be understandably a little suspicious	 REL: Result:3.000000
+E1: we have not yet meet this randaii fellow	E2: we be understandably a little suspicious	 REL: Result:2.000000
+E1: abuse suspect hyun si hyuk be hyun real son	E2: even other people be suspicious of i	 REL: Condition:2.995122
+E1: abuse suspect hyun si hyuk be chairman hyun 's real son	E2: even other people be suspicious of i	 REL: Condition:2.994305
+E1: she behaviour can still become suspicious	E2: she behaviour give we away	 REL: Conjunction:0.998801
+E1: you do not go	E2: they will be more suspicious	 REL: Precedence:1.999999
+E1: he be always suspicious of i	E2: now he be really nice to i	 REL: Contrast:1.999314
+E1: hang kang be be strange	E2: he be always suspicious of i	 REL: Precedence:1.999163
+E1: i could have press harder	E2: she would only be more suspicious	 REL: Contrast:0.999789
+E1: you be like a suspicious child	E2: you be gullible	 REL: Conjunction:0.999980
+E1: ellen will be suspicious	E2: i take you to lunch more	 REL: Succession:1.999974Condition:2.000000Conjunction:1.999622
+E1: be that	E2: i be get even more suspicious	 REL: Precedence:8.961426Result:9.000000
+E1: be that	E2: i be become even more suspicious	 REL: Precedence:2.994081Result:3.000000
+E1: elkin admit to these heinous act	E2: i be suspicious of he motive	 REL: Contrast:2.988090
+E1: maybe it be a good idea	E2: i be suspicious of jonathan	 REL: Contrast:1.999784
+E1: they will just see you with this smoking hot girl	E2: that be a little bit suspicious	 REL: Conjunction:2.996200
+E1: the fbi be very suspicious of we	E2: we have get to be extra careful	 REL: Result:3.000000
+E1: the fbi be very suspicious of we	E2: you have to be extra careful	 REL: Result:1.998896
+E1: elijah be more suspicious than the other	E2: he may need more persuasion	 REL: Result:4.989163
+E1: ah go quickly	E2: else she will be suspicious	 REL: Alternative:1.992896
+E1: it be not a crime suspicious costly	E2: well you prove you point	 REL: Conjunction:1.999955
+E1: subedaar should not get suspicious	E2: we be dead	 REL: Alternative:2.978669
+E1: far reverend bank account be suspiciously fruitful	E2: reverend bank account multiply	 REL: Conjunction:0.999665
+E1: it be not suspicious behavior	E2: you be a astronomer	 REL: Condition:2.000000
+E1: baena death be suspicious	E2: baena death do you	 REL: Result:1.999650
+E1: we punish someone	E2: just that one be suspicious	 REL: Reason:2.000000
+E1: the sheriff king be get suspicious	E2: you will have to invent a story	 REL: Conjunction:10.000000
+E1: inspector i be just quote a old song	E2: away you be suspicious again	 REL: Conjunction:0.999817
+E1: they have say many thing	E2: that we have become suspicious	 REL: Result:1.984086
+E1: we be be suspicious	E2: they come to question we	 REL: Condition:2.995817
+E1: she take the quilt	E2: she must have become suspicious	 REL: Conjunction:1.998207
+E1: mrs stanley run a tidy household	E2: any untidiness be suspicious	 REL: Result:2.000000
+E1: vidal be always suspicious of buckley sexuality	E2: reference suggest that	 REL: Conjunction:1.998129
+E1: i be already suspicious about he	E2: he order the bogus investigation	 REL: Succession:2.000000
+E1: port commission report a two percent loss	E2: as this one be fill with people suspicious	 REL: Contrast:0.997574
+E1: i be disappointed	E2: the khan will be very suspicious	 REL: Contrast:0.999974
+E1: it would not be as suspicious	E2: you frequent other sub	 REL: Condition:2.000000
+E1: the latter be surly curmudgeon suspicious lack	E2: they be comfortable neighbor than the other sort	 REL: Conjunction:1.995807
+E1: i see	E2: suppose bernie supporter be suspiciously dumb too	 REL: Conjunction:1.999808
+E1: the situation be non suspicious	E2: that you upload the video to ig	 REL: Result:2.000000
+E1: we do have evidence	E2: the room be search by neutral honest non suspicious le	 REL: Succession:1.988686
+E1: cop be crazy suspicious	E2: you be a foreigner	 REL: Condition:2.000000
+E1: a accident would be suspicious	E2: it be to happen	 REL: Condition:2.000000
+E1: aide name escape i atm	E2: he female aide be actually more suspicious than he	 REL: Contrast:0.999979
+E1: just the government be suspicious	E2: the government put they on a secret government list	 REL: Reason:1.983073Conjunction:1.999228
+
+
+query:sleep%all%day
+
+
+
+query:push%me%down
+
+
+
+query:take%off%run
+
+E1: the little bitch kick i in the ball	E2: she take off run	 REL: Precedence:0.999988
+E1: the guy take off run	E2: he be release	 REL: Precedence:2.000000
+E1: i have never hear anything	E2: we take off run	 REL: Precedence:2.000000
+E1: ron act weird	E2: he dick take off run	 REL: Conjunction:0.998225
+E1: a few guy take off run	E2: anything change hand	 REL: Precedence:3.000000
+E1: the mexicans open fire on he	E2: the mexicans take off run	 REL: Conjunction:1.995867
+E1: angie take off run	E2: he grab my mom	 REL: Conjunction:0.999969
+
+
+query:follow%link%to
+
+
+
+query:inspire%by%we
+
+E1: the novel dracula be full of shakespearean allusion	E2: dracula three wife be likely inspire by the weird sister	 REL: Conjunction:0.996579
+E1: we should not be hard on they	E2: that the paedophilia be inadvertently inspire by we promiscuous culture	 REL: Reason:1.991957
+
+
+query:restore%faith%humanity
+
+
+
+query:cut%self
+
+E1: he cut himself	E2: he get blood on the grape	 REL: Conjunction:1.999319
+E1: he cut himself	E2: he try to come downstairs	 REL: Conjunction:1.993781
+E1: i cut myself	E2: i do something terrible	 REL: Reason:4.000000
+E1: i cut myself	E2: i be sorry	 REL: Result:2.000000
+E1: i cut myself	E2: suzanne could feed	 REL: Result:3.999353
+E1: i cut myself	E2: i drop it	 REL: Precedence:0.998560
+E1: i would rather face a vampire	E2: i cut myself	 REL: Succession:2.000000
+E1: i be not crawl through that	E2: i cut myself	 REL: Conjunction:1.998675
+E1: you cut yourself	E2: the first thing be look help	 REL: Conjunction:0.997894
+E1: you cut yourself	E2: just like we do	 REL: Conjunction:0.999704
+E1: the knife slip	E2: you cut yourself	 REL: Conjunction:3.979245
+E1: that be acid	E2: you cut yourself	 REL: Conjunction:1.989471
+E1: you have to careful	E2: you cut yourself	 REL: Alternative:1.999835
+E1: she reflection be against the grain	E2: she reflection inflect by acute self awareness	 REL: Contrast:0.999934Conjunction:1.000000
+E1: she cut herself	E2: it be not we fault	 REL: Conjunction:1.987884
+E1: we be do here	E2: she cut herself	 REL: Succession:1.999619
+E1: one little lamb cutlet leave over	E2: one little lamb cutlet sit out all by itself	 REL: Conjunction:0.999988
+E1: luckily the seal cutter betray himself by he impressive trick	E2: i calm again	 REL: Conjunction:0.999980
+E1: the seal cutter make	E2: luckily the seal cutter betray himself by he impressive trick	 REL: Conjunction:0.999965
+E1: pere grillau give he the money	E2: the executioner provide himself with a rope	 REL: Conjunction:0.998522
+E1: u 450 scuttle herself at position	E2: urchin rescue she entire crew	 REL: Conjunction:0.999386
+E1: you be beautiful	E2: you be kind of cute yourself	 REL: Result:1.996780
+E1: l cut myself	E2: you have be at dean house	 REL: Conjunction:0.999888
+E1: you could have cut yourself	E2: you bleed inside he	 REL: Conjunction:0.999999
+E1: i will cut myself	E2: you have	 REL: Condition:5.000000
+E1: i will do the saphenous cut down on diane ankle	E2: i will cut myself	 REL: Precedence:2.999998Conjunction:2.996857
+E1: my big brother have one	E2: i will cut myself	 REL: Condition:0.995553
+E1: i just cut myself	E2: well do you have a band aid	 REL: Alternative:0.999541
+E1: i have eat at he table	E2: i now cut myself off from he absolutely	 REL: Conjunction:0.997512
+E1: i slip	E2: i cut myself on that coke bottle	 REL: Conjunction:2.999960
+E1: he have it	E2: he do not cut himself on the mussel	 REL: Result:1.999188
+E1: i worry	E2: my sister be cut herself	 REL: Reason:5.000000
+E1: maybe you can cut a deal yourself	E2: you shave off some time	 REL: Conjunction:4.993148
+E1: he cut himself again	E2: again like it say in the medical report	 REL: Conjunction:0.999617
+E1: the grass will not cut itself	E2: we do not give it a chance	 REL: Condition:2.000000
+E1: now you have electrocute yourself	E2: you set a patient	 REL: Conjunction:2.999952
+E1: we be not change the water	E2: you cut yourself again	 REL: Condition:3.000000
+E1: a flower cut itself off from the morning light	E2: the rain fall into a endless sleep	 REL: Conjunction:6.977010
+E1: figure i would better get up	E2: you electrocute yourself	 REL: Precedence:2.000000Conjunction:2.000000
+E1: he cut himself up bad quit	E2: he quit	 REL: Conjunction:1.999225
+E1: the guy cut himself up	E2: the guy quit	 REL: Precedence:8.999708
+E1: maybe you should just get a comb	E2: you do not accidentally cut yourself	 REL: Result:3.990043
+E1: i must cook 50 person	E2: i must cut myself the hair	 REL: Conjunction:1.999762
+E1: she would not cut herself anymore	E2: now she be in a band	 REL: Result:1.999259
+E1: carrie phillips start take zoloft	E2: she would not cut herself anymore	 REL: Result:6.000000
+E1: one day i cut myself	E2: he bind up the wound	 REL: Conjunction:3.000000
+E1: i really do cut myself	E2: paul go the generator	 REL: Conjunction:8.000000
+E1: you cut yourself lucky	E2: you be here at all	 REL: Succession:4.984592
+E1: i be cut myself	E2: i hide it from my friend	 REL: Conjunction:0.999978
+E1: the culprit must be careless	E2: the culprit cut himself	 REL: Succession:1.997351Conjunction:1.999870
+E1: that he would cut himself in half	E2: it would bring back he son	 REL: Condition:3.000000
+E1: that this poor man would cut himself in half	E2: it would bring back he son	 REL: Condition:3.000000
+E1: you can see	E2: that this poor man would cut himself in half	 REL: Condition:2.999484
+E1: he climb over the barb wire	E2: he may have cut himself	 REL: Conjunction:0.999860
+E1: right jenna cut herself	E2: the plane would have have to regain its altitude	 REL: Succession:0.999932
+E1: suspect may have cut himself through glove	E2: suspect leave he own blood	 REL: Conjunction:1.985724
+E1: i remember this one time	E2: he cut himself badly with some scissors	 REL: Conjunction:2.998694
+E1: i would better fix you rig	E2: you execute yourself	 REL: Precedence:5.000000
+E1: you do not keep up with you generation	E2: you execute yourself	 REL: Conjunction:1.998359
+E1: you do not want to cut yourself off	E2: you want to hear the music	 REL: Conjunction:0.999947
+E1: that i too be bind by a unseen rope	E2: i could not cut the rope by myself	 REL: Conjunction:5.980074
+E1: i would rather cut myself	E2: i bleed out slowly on a.	 REL: Conjunction:1.999948
+E1: i be be charming	E2: maybe he cut himself on you pubic hair	 REL: Result:5.000000
+E1: i find out	E2: i start cut myself	 REL: Succession:9.000000
+E1: they find she with a knife	E2: she seem to be cut herself	 REL: Succession:23.000000
+E1: i could not handle 'em anymore	E2: i just cut myself off from the world	 REL: Result:2.000000
+E1: i could not handle 'em any more	E2: i just cut myself off from the world	 REL: Result:3.989415
+E1: he start cut himself	E2: he be still house	 REL: Contrast:3.983796
+E1: she cut herself on purpose	E2: we could id she	 REL: Result:3.000000
+E1: would you rather electrocute yourself	E2: would you rather electrocute yourself	 REL: Alternative:2.000000
+E1: would you rather electrocute yourself	E2: would you rather electrocute yourself	 REL: Alternative:2.000000
+E1: you be next	E2: would you rather electrocute yourself	 REL: Alternative:6.960247
+E1: you have cut yourself off from everything	E2: everyone you care about	 REL: Conjunction:0.999710
+E1: that go with you	E2: not that i be cut myself off from civilization altogether	 REL: Conjunction:0.997300
+E1: i want to cut myself	E2: i want to cut you	 REL: Conjunction:2.999389
+E1: i wan na cut myself	E2: i wan na cut you	 REL: Conjunction:1.999905
+E1: i be cut a tree branch with a knife	E2: i cut myself by accident	 REL: Conjunction:1.999852
+E1: my lawn be emo	E2: it would cut itself	 REL: Result:1.999914
+E1: it be clear cut self entitlement	E2: self entitlement be not a virtue	 REL: Conjunction:0.999988
+
+
+query:take%photo%evening
+
+
+
+query:drive%illegal
+
+E1: the minicab driver work illegally	E2: the minicab driver be nervous	 REL: Conjunction:0.999998
+
+
+query:not%have%wedding
+
+E1: we can not find another place	E2: we can not have the wedding	 REL: Precedence:4.999516
+E1: i do not have to have the big wedding	E2: it be too much	 REL: Condition:14.000000
+E1: i want to marry maggie	E2: we do not have to have a wedding	 REL: Conjunction:11.986959
+E1: we do not even have a wedding	E2: we be register	 REL: Contrast:0.998345
+E1: we be not have wedding pie	E2: this be typical of you	 REL: Result:3.000000
+E1: you do not have a big wedding	E2: i do ever get marry	 REL: Condition:9.998677
+E1: as you do not mind have a small wedding	E2: we can drink champagne out a acorn top	 REL: Conjunction:2.999705
+E1: you be read a magazine with a subscription label	E2: yet you do not have a wedding ring	 REL: Conjunction:8.999295
+E1: that be	E2: we do not have a proper wedding	 REL: Reason:23.000000
+E1: i have never see any	E2: we do not have a proper wedding	 REL: Reason:20.951183
+E1: i be not have pre wedding jitters	E2: it be not just about jabbar	 REL: Conjunction:0.997986
+E1: i may not have a wedding	E2: it will probably be in my bedroom	 REL: Conjunction:1.995075
+E1: she come home from boca	E2: i do not have my wedding ring	 REL: Conjunction:1.995555
+E1: i can not believe this	E2: i do not have a wedding donkey on my horizon	 REL: Conjunction:1.995964
+
+
+query:child%stick%leg
+
+
+
+query:continue%eat
+
+E1: continue beating gradually add the sugar	E2: they be stiff	 REL: Precedence:3.000000
+E1: she be declare in good health	E2: she continue with labored breathing	 REL: Contrast:2.000000
+E1: the dollar continue its recent retreat	E2: as sell momentum carry over from previous session	 REL: Contrast:0.999725
+E1: i be in this adventure happy	E2: the king continue to treat i kindly	 REL: Conjunction:2.998379
+E1: the i vi t win a hard fight victory	E2: the i vi t continue north to threaten muang sua	 REL: Conjunction:1.988077
+E1: lake have always play a important role in polish history	E2: lake continue to be of great importance	 REL: Conjunction:1.997700
+E1: john ii continue to demand greater concession	E2: john ii would not offer a permanent peace	 REL: Conjunction:1.999975
+E1: you may continue to repeat it	E2: as you like	 REL: Condition:5.965882
+E1: later qin continue to defeat all warlord	E2: in 221 b.c. qin unify china	 REL: Conjunction:1.999998
+E1: heart beat rapidly	E2: heart continue beating	 REL: Conjunction:0.999978
+E1: it be fine with i	E2: guy want to continue this silent treatment	 REL: Condition:5.000000
+E1: it strengthen the human body temporarily	E2: that the heart continue to beat	 REL: Conjunction:9.999852
+E1: it would have be	E2: she would continue she treatment	 REL: Condition:13.000000
+E1: cry continue neve breathing heavily	E2: door open luca comforting lucy	 REL: Contrast:0.999998
+E1: we watch we own footstep	E2: we must continue protect this great land	 REL: Conjunction:1.999923
+E1: bird chirp	E2: chirp continue breathe heavily	 REL: Conjunction:0.999994
+E1: we can only continue make the great passage	E2: one we leave	 REL: Condition:3.000000
+E1: the court have tell she	E2: she must continue she medical treatment	 REL: Conjunction:1.999999
+E1: she be a manic depressive	E2: she must continue she medical treatment	 REL: Conjunction:0.999988
+E1: he heart continue to beat	E2: he brain activity cease	 REL: Succession:3.000000
+E1: he heart continue to beat	E2: he bleed out	 REL: Conjunction:1.999915
+E1: the child continue to line they clog up neatly	E2: they school teacher say	 REL: Conjunction:0.999998
+E1: they would have continue to beat i	E2: i could not have walk	 REL: Precedence:3.000000Alternative:2.996859
+E1: the doctor will decide	E2: you will continue the treatment	 REL: Condition:2.000000
+E1: bird flow	E2: man continue sing drum beating	 REL: Conjunction:0.999575
+E1: singing continue breathing heavily	E2: raspy exhale alarm blare	 REL: Conjunction:0.999958
+E1: it would continue to create enormous energy long	E2: the subject be alive	 REL: Condition:2.000000
+E1: that tiana can continue at the chicago theater	E2: it be lucious	 REL: Condition:2.000000
+E1: i think	E2: that tiana can continue at the chicago theater	 REL: Condition:1.999890
+E1: it be infect she brain	E2: even we continue the treatment	 REL: Condition:4.000000
+E1: she continue to reject treatment session	E2: we probably should resort to the drug	 REL: Precedence:1.999897
+E1: i do not continue my treatment	E2: they will take he away i	 REL: Precedence:3.995899
+E1: i do not continue my treatment	E2: they will take he away from i	 REL: Precedence:5.990099
+E1: i will die	E2: you continue to beat i	 REL: Condition:2.000000
+E1: you see	E2: you continue to threaten i	 REL: Condition:10.000000
+E1: box scrape	E2: hearts continue beat	 REL: Contrast:1.999860
+E1: he have continue to treat major dunham	E2: he note might still be there in the hospital record	 REL: Condition:1.999561
+E1: man switch will not be activate	E2: he heart will continue to beat	 REL: Reason:6.000000
+E1: saul continue erratic breathing	E2: erratic breathing continue	 REL: Conjunction:0.999998
+E1: sheep continue bleating	E2: metal clanking continue	 REL: Conjunction:1.000000
+E1: that i can run faster	E2: i continue to eat this flower	 REL: Condition:2.000000
+E1: conversation continue indistinctly breathe shakily	E2: this be my home	 REL: Contrast:1.994993
+E1: i just get back	E2: conversation continue indistinctly breathe shakily	 REL: Precedence:0.999912
+E1: a perpetrator continue to threaten you safety	E2: that be justifiable	 REL: Succession:1.999447
+E1: uh i be gon na admit he	E2: he can continue get treatment	 REL: Result:6.000000
+E1: my recovery would have be absolutely unsuccessful	E2: i have continue to eat unhealthily	 REL: Condition:8.000000
+
+
+query:eat%spicy
+E1: i do not eat spicy food	E2: the rice be okay	 REL: Contrast:1.991761
+E1: mom side have a korean background	E2: i grow up eating spicy food	 REL: Conjunction:0.999713
+E1: you stomach 's act up	E2: you keep eat spicy salty sweet stuff much	 REL: Reason:3.000000Conjunction:2.995162
+E1: 's eat spicy noodle together	E2: fresh noodle will tie we love together	 REL: Conjunction:7.941385
+E1: he already scream in he sleep now	E2: just he eat something spicy	 REL: Condition:1.999976
+E1: i will not eat anything spicy salty	E2: i will chew 80 time	 REL: Precedence:3.000000Conjunction:2.998909
+E1: i eat 39 spicy egg roll	E2: 39 spicy egg roll be on the floor	 REL: Conjunction:0.999975
+
+

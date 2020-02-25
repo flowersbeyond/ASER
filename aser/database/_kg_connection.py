@@ -263,6 +263,9 @@ class _Sqlite_Connection(__Connection):
         if top_n:
             select_table += ' LIMIT %d' % (top_n)
         select_table += ';'
+
+        #print(select_table)
+
         for x in self._conn.execute(select_table, keys):
             key_match_event = OrderedDict(zip(columns, x))
             key_match_events.append(key_match_event)
@@ -271,7 +274,10 @@ class _Sqlite_Connection(__Connection):
     def get_rows_by_patterns(self, table_name, bys, patterns, columns, order_bys=None, reverse=False, top_n=None):
         rows = []
         select_table = "SELECT %s FROM %s WHERE %s" % (
-            ','.join(columns), table_name, ' AND '.join(['%s LIKE %s?' % (by, pattern) for (by, pattern) in zip(bys, patterns)]))
+            ','.join(columns), table_name, ' AND '.join(['%s LIKE %s' % (by, pattern) for (by, pattern) in zip(bys, patterns)]))
+
+        #print(select_table)
+
         if order_bys:
             select_table += ' ORDER BY %s %s' % (
                 ','.join(order_bys), 'DESC' if reverse else 'ASC')
@@ -281,7 +287,7 @@ class _Sqlite_Connection(__Connection):
         for x in self._conn.execute(select_table):
             row = OrderedDict(zip(columns, x))
             rows.append(row)
-        return row
+        return rows
 
 
 class _MongoDB_Connection(__Connection):
@@ -767,19 +773,28 @@ class _KG_Connection(object):
         return []
 
     def get_event_by_substring(self, event_substring):
-        return self._conn.get_rows_by_patterns(table_name=_event_table_name, bys=['words'], patterns=['\'%' + event_substring + '\'%'] ,columns=['_id','verbs','words'])
+        return self._conn.get_rows_by_patterns(table_name=_event_table_name, bys=['words'], patterns=['\'%' + event_substring + '%\''] ,columns=['_id','verbs','words'])
 
     def get_event_text_by_id(self, event_id):
         return self._conn.get_rows_by_keys(table_name=_event_table_name, bys=['_id'], keys=[event_id], columns=['_id', 'words'])
 
     def get_relations_by_event_id(self, event_id):
-        relation_rows = self._conn.get_rows_by_keys(table_name=_relation_table_name, bys=['event1_id'], keys=[event_id], columns=_relation_columns)
-        for rel in relation_rows:
+        relation_rows1 = self._conn.get_rows_by_keys(table_name=_relation_table_name, bys=['event1_id'], keys=[event_id], columns=_relation_columns)
+        for rel in relation_rows1:
             event2_id = rel['event2_id']
             event2 = self.get_event_text_by_id(event2_id)
-            rel['event2_words'] = event2
+            rel['event2_words'] = event2[0]['words']
 
-        return relation_rows
+        relation_rows2 = self._conn.get_rows_by_keys(table_name=_relation_table_name, bys=['event2_id'], keys=[event_id],
+                                                    columns=_relation_columns)
+        for rel in relation_rows2:
+            event1_id = rel['event1_id']
+            event1 = self.get_event_text_by_id(event1_id)
+            rel['event1_words'] = event1[0]['words']
+
+        relation_rows1.extend(relation_rows2)
+
+        return relation_rows1
 
     """
     KG (relations)
